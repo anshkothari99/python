@@ -1,0 +1,12 @@
+print("ansh kothari\nKFBSC(IT)033")
+my_list = []
+my_list.append(1)
+my_list.append(2)
+my_list.append(3)
+my_list.append(4)
+print("My list:", my_list)
+my_list.remove(2)
+print("My list after removing 2:", my_list)
+popped_item = my_list.pop()
+print("Popped item:", popped_item)
+print("Updated concatenated list:", my_list)
